@@ -69,42 +69,6 @@ Preliminary technical hiring is systematically broken:
 
 ---
 
-## 📌 Getting Started
-
-### Prerequisites
-* Node.js (>= 18.x) / Python (>= 3.10)
-* API Key credentials for LLM services and audio streaming backends.
-
-### Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-org/limeflow.git
-   cd limeflow
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   # or
-   pip install -r requirements.txt
-   ```
-
-3. **Configure Environment Variables:**
-   Create a `.env` file in the root directory:
-   ```env
-   AGENT_API_KEY=your_agent_api_key
-   PROCTORING_SERVICE_URL=your_proctoring_url
-   DATABASE_URL=your_database_url
-   ```
-
-4. **Run the Application:**
-   ```bash
-   npm run dev
-   ```
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
