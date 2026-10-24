@@ -8,7 +8,7 @@ Limeflow Recruit is an intelligent, AI-powered interview platform designed to si
 
 ## 🎬 Demo Video
 
-[![Limeflow Demo Video](https://github-production-user-asset-6210df.s3.amazonaws.com/83578131/683700540-4be748ab-5249-4c1a-9a61-89c67900b005.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T175734Z&X-Amz-Expires=300&X-Amz-Signature=65e9c5f84dd770d103695baf841eb0bff41f721ecfb1d816b0c3d2208a735a9f&X-Amz-SignedHeaders=host&response-content-type=video%2Fmp4)
+[![Limeflow Demo Video](https://github.com/user-attachments/assets/4be748ab-5249-4c1a-9a61-89c67900b005)](https://github.com/user-attachments/assets/4be748ab-5249-4c1a-9a61-89c67900b005)
 
 ---
 
